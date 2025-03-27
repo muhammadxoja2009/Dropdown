@@ -1,0 +1,119 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.container{
+max-width: 1220px;
+margin: 0 auto;
+}
+header{
+    background: #0C0E18;
+}
+header .container{
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sel{
+    display: flex;
+    gap: 30px;
+}
+.kirish{
+    display: flex;
+    gap: 30px;
+}
+.btn{
+    padding: 9px 66px;
+    border-radius: 10px;
+    border: none;
+    background: #BFAFF2;
+
+}
+select{
+    color: white;
+    background: black;
+    border-radius: 30px;
+    border: none;
+}
+option{
+    border-radius: 30px;
+}
+.sel h1{
+    color: white;
+}
+.kirish p{
+    color: white;
+}
+main{
+    background-color: #101220;
+}
+.hero{
+    padding-top: 350px;
+    padding-bottom: 100px;
+}
+.card{
+width: 315px;
+background: #232028;
+height: 240px;
+border-radius: 25px;
+padding: 15px;
+text-align: center;
+color: white;
+
+}
+.card img{
+margin-top: -300px;
+}
+.ota{
+display: flex;
+align-items: center;
+justify-content: space-between;
+gap: 50px;
+
+}
+footer{
+    background: #0C0E18;
+}
+footer .container{
+    display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 25px 0;
+color: white;
+}
+nav ul{
+    display: flex;
+align-items: center;
+gap: 40px;
+list-style: none;
+}
+nav ul li a{
+text-decoration: none;
+color: white;
+}
+footer .container p{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
